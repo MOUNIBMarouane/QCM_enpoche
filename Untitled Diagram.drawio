@@ -4,11 +4,14 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="oozGDlnOGLCMfOZSYD9B-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oozGDlnOGLCMfOZSYD9B-0" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="400" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oozGDlnOGLCMfOZSYD9B-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="120" width="480" height="640" as="geometry" />
+          <mxGeometry x="160" y="120" width="480" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="oozGDlnOGLCMfOZSYD9B-5" value="can search ro courses" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="220" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
